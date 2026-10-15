@@ -1,4 +1,4 @@
-# OutageWatch Sarawak
+# OutageWatchSarawak
 
 An AI-driven mobile app for electricity outage reporting, incident classification, and restoration tracking.
 
